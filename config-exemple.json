@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "interstitialEvery": 3,
+  "campaign": {
+    "id": "exemple-pizzeria-2027-01",
+    "sponsor": "Pizzeria Da Mario",
+    "start": "2027-01-17T00:00:00Z",
+    "end": "2027-01-31T23:59:59Z",
+    "pizzaID": "margherita",
+    "title": {
+      "fr": "Pizza de la semaine : la Margherita de Mario",
+      "en": "Pizza of the week: Mario's Margherita"
+    },
+    "message": {
+      "fr": "Gagne une partie et reçois -20 % sur ta prochaine commande !",
+      "en": "Win a game and get 20% off your next order!"
+    },
+    "promoCode": "GUESSMARIO20",
+    "promoText": {
+      "fr": "-20 % chez Pizzeria Da Mario avec ce code :",
+      "en": "20% off at Pizzeria Da Mario with this code:"
+    },
+    "url": "https://example.com/commande",
+    "buttonLabel": {
+      "fr": "Commander",
+      "en": "Order now"
+    }
+  }
+}
