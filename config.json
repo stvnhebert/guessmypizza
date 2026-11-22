@@ -1,5 +1,6 @@
 {
-  "version": 1,
-  "interstitialEvery": 3,
-  "campaign": null
+"version": 1,
+"interstitialEvery": 3,
+"campaign": null,
+"telemetryAppID": "53048C92-E1BD-41C5-AABE-93D5EFB6C623"
 }
